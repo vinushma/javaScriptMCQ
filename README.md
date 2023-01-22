@@ -72,6 +72,7 @@ console.log(arr1.slice(-1))
 5
 [ [ 'j', 'o', 'n', 'e', 's' ] ]
 </pre></div>
+<pre>
 # Question 6 
 var foo = [];
 for(var i=0;i<10;i++){
