@@ -91,3 +91,11 @@ console.log(foo[2]());
  # Output <pre>
 2
 </pre>
+# Question 7 
+var a = Array(2);
+console.log(typeof a);
+</pre>
+<div>
+ # Output <pre>
+object
+</pre>
